@@ -1,0 +1,7 @@
+案例中包含
+    redis:      非关系型数据库的简单操作demo
+    zookeeper:  分布式应用程序协调服务的demo
+    dubbo:      分布式服务框架的案例demo
+                Remoting: 网络通信框架，实现了 sync-over-async 和 request-response 消息机制.
+                RPC: 一个远程过程调用的抽象，支持负载均衡、容灾和集群功能
+                Registry: 服务目录框架用于服务的注册和服务事件发布和订阅
